@@ -1,16 +1,21 @@
-## Hi there 👋
+<h1> Happy7小七 </h1>
 
-<!--
-**Happy7q233/Happy7q233** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+i actually don't know how to code at all... i often just vibecode *(which i do not recommend)*, but hey -  I do know *basic* markdown formats ;)
 
-Here are some ideas to get you started:
+interesting stuff about me:
+- idk
+- i still dk
+- **cool.**
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+actual interesting stuff about me:
+- personal site at [happy7q233.net](https://happy7q233.net)
+- an outdate photography site at [photographs.happy7q233.net](https://photographs.happy7q233.net)
+- reach me at [admin@happy7q233.net](mailto:admin@happy7q233.net) or any other platforms
+- i translate stuff (english <-> chinese)
+- im planing to use github for my projects somehow... if its *really* needed
+
+you can find me on major platforms under the same username/id (Happy7小七/Happy7q233).
+
+let me know what should i put here - i may learn to actually code in the future, who knows
+
+that's it.
