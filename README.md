@@ -14,6 +14,9 @@ actual interesting stuff about me:
 - i translate stuff (english <-> chinese)
 - im planing to use github for my projects somehow... if its *really* needed
 
+for public / self reminder
+- the codes in cloudflare/ sub-repo are worker codes
+
 you can find me on major platforms under the same username/id (Happy7小七/Happy7q233).
 
 let me know what should i put here - i may learn to actually code in the future, who knows
