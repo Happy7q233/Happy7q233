@@ -15,7 +15,7 @@ actual interesting stuff about me:
 - im planing to use github for my projects somehow... if its *really* needed
 
 for public / self reminder
-- the codes in cloudflare/ sub-repo are worker codes
+- the codes in cloudflare/sub-repo are worker codes
 
 you can find me on major platforms under the same username/id (Happy7小七/Happy7q233).
 
